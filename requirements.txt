@@ -1,1 +1,6 @@
-
+numpy>=1.26
+pandas>=2.1
+yfinance>=0.2.40
+Flask>=3.0
+python-telegram-bot>=20.8,<23
+requests>=2.31
